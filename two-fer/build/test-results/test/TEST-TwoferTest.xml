@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TwoferTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-04-23T01:43:07" hostname="Luiss-MacBook-Pro.local" time="0.056">
+  <properties/>
+  <testcase name="noNameGiven" classname="TwoferTest" time="0.041"/>
+  <testcase name="emptyStringIsNotTheSameAsNull" classname="TwoferTest" time="0.0"/>
+  <testcase name="aNameGiven" classname="TwoferTest" time="0.014"/>
+  <testcase name="anotherNameGiven" classname="TwoferTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
